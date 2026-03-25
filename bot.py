@@ -40,7 +40,3 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
-Paste that in, commit it, then create a second file called `requirements.txt` and put just this one word in it:
-```
-requests
